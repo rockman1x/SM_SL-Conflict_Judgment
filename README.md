@@ -4,7 +4,7 @@ An alternative/conflicted Judgment font for Simply Love and/or Stepmania 5.
 ## Introduction
 Ever played a rhythm game for a long time in an arcade location? And then you get back home to practice on Simply Love or Stepmania.
 You play and you start missing the judgment words from the arcade (which you may played with it for years)... but you also have to
-adhere to judgmentconventions of ITG/FA+ to not to confuse viewers watching your stream. Fear not! I have your solution right here!
+adhere to judgment conventions of ITG/FA+ to not to confuse viewers watching your stream. Fear not! I have your solution right here!
 
 ## Installation
 Stay tuned!
